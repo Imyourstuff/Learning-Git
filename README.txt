@@ -2,12 +2,6 @@
 
 Started trying to DEVOPS again, what a shame I've became
 
-<<<<<<< HEAD
-BRANCING CONDITIONS BRANCH PREDICTION!`
+Line 7.
 
-NEW CHANGES FOR REBASE...
-=======
-BRANCING CONDITIONS BRANCH PREDICTION!`.
-
-JIJA
->>>>>>> refs/remotes/origin/feature/database-connection
+Line 7.
