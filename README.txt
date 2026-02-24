@@ -2,6 +2,6 @@
 
 Started trying to DEVOPS again, what a shame I've became
 
-Line 7.
+final message
 
 Line 7.
